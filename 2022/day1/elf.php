@@ -15,6 +15,6 @@ echo "max value is: ".max($elves).PHP_EOL;
 rsort($elves);
 $sumArr = $elves[0] + $elves[1] + $elves[2];
 
-echo "max three value is: ".$sumArr.PHP_EOL;
+echo "sum of max three value is: ".$sumArr.PHP_EOL;
 
 
