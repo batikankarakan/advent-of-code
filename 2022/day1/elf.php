@@ -1,6 +1,6 @@
 <?php
 
-$lines = file('inputfile.txt');
+$lines = file('jobs.txt');
 $sum = 0;
 $elves = [];
 $result = 0;

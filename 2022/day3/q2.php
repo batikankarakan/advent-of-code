@@ -1,5 +1,5 @@
 <?php
-$lines = file('inputfile.txt');
+$lines = file('jobs.txt');
 $alphabetPriorities = [
     "a" => 1,
     "b" => 2,

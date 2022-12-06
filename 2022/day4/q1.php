@@ -1,6 +1,6 @@
 <?php
 
-$lines = file('inputfile.txt');
+$lines = file('jobs.txt');
 $splits = [];
 $fullyContain = 0;
 $ids = [];

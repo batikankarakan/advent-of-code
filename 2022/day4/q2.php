@@ -7,7 +7,7 @@ function doesItOverlap($num1, $num2)
     }
 }
 
-$lines = file('inputfile.txt');
+$lines = file('jobs.txt');
 $splits = [];
 $fullyContain = 0;
 $ids = [];

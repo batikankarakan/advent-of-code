@@ -1,5 +1,5 @@
 <?php
-$lines = file('inputfile.txt');
+$lines = file('jobs.txt');
 
 $conditions = [
     "A X" => 4,
